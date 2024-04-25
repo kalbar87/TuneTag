@@ -1,0 +1,5 @@
+discogs_client==2.7
+streamlit==1.2.0
+spotipy==2.22.1
+pandas==2.1.4
+matplotlib==3.8.4
