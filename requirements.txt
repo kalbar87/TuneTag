@@ -1,4 +1,4 @@
-discogs_client==2.7.0
+python3-discogs-client==2.7
 streamlit==1.2.0
 spotipy==2.22.1
 pandas==2.1.4
